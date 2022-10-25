@@ -25,10 +25,10 @@ attribute will look like this:
 class Person
 
   # setter method
-  def name=(name)
+ 
+ def name=(name)
     @name = name
   end
-
   # getter method
   def name
     @name
